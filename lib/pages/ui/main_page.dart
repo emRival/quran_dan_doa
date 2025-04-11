@@ -5,8 +5,6 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:quran_dan_doa/component/tab_item.dart';
 import 'package:quran_dan_doa/pages/ui/bookmark/bookmark_page.dart';
 import 'package:quran_dan_doa/pages/ui/tab_bar/quran/detail_screen.dart';
-import 'package:quran_dan_doa/pages/ui/tab_bar/doa_tab.dart';
-import 'package:quran_dan_doa/pages/ui/tab_bar/dzikr_tab.dart';
 import 'package:quran_dan_doa/pages/ui/tab_bar/quran/surah_tab.dart';
 import 'package:quran_dan_doa/theme.dart';
 
